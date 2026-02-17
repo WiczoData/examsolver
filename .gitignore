@@ -27,11 +27,5 @@ build/
 *.spec
 *.exe
 
-# Bazy danych
-baza_wiedzy/
-baza_egzaminow/
-*.sqlite3
-*.db
-
 # Logi
 *.log
