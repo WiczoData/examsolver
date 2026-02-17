@@ -1,0 +1,37 @@
+# Modele LLM
+models/
+*.gguf
+*.bin
+
+# Podręczniki i duże dane
+podreczniki/
+*.zip
+*.pdf
+*.7z
+*.rar
+
+# Środowisko wirtualne
+.venv/
+venv/
+env/
+
+# Cache i pliki tymczasowe
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Pliki wykonywalne i buildy
+dist/
+build/
+*.spec
+*.exe
+
+# Bazy danych
+baza_wiedzy/
+baza_egzaminow/
+*.sqlite3
+*.db
+
+# Logi
+*.log
